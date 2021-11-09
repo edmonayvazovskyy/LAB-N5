@@ -1,0 +1,14 @@
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.exe
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.deps.json
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.runtimeconfig.json
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.runtimeconfig.dev.json
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.dll
+E:\Lab5\Laba5_2\Laba5_2\bin\Debug\netcoreapp3.1\Laba5_2.pdb
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.csproj.AssemblyReference.cache
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.AssemblyInfoInputs.cache
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.AssemblyInfo.cs
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.csproj.CoreCompileInputs.cache
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.dll
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.pdb
+E:\Lab5\Laba5_2\Laba5_2\obj\Debug\netcoreapp3.1\Laba5_2.genruntimeconfig.cache
